@@ -13,7 +13,7 @@
         android:layout_marginTop="16dp"
         android:text="TextView"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#673AB7"
+        android:textColor="#B73A3A"
         android:textColorHighlight="#FFFFFF"
         android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
